@@ -121,4 +121,9 @@ Metrics calculées: précision, rappel, F1-score, accuracy + matrice de confusio
 
 ---
 
-*© 2025 – Détection d’anomalies de transactions*
+## 👤 Authors
+- **Alae Din**   
+
+---
+
+This project is distributed under the **BSD 3-Clause License**.
